@@ -1,0 +1,341 @@
+@media (min-width: 865px) {
+
+    header,
+    footer {
+        padding: 40px 0 0 60px;
+    }
+
+    section {
+        padding: 60px;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        font-family: Roboto Slab;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    /* =============HEADER========== */
+
+    header img {
+        width: 64.87px;
+        height: 38.23px;
+        top: 22px;
+        left: 70.08px;
+
+    }
+
+    /* =========== MAIN ============== */
+
+    .timing {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        margin-bottom: 10px;
+    }
+
+    .timing li img {
+        width: 12.74px;
+        height: 12.16px;
+        top: 116.4px;
+        left: 70.08px;
+        margin-right: 6px;
+    }
+
+    .timing li {
+        font-family: Roboto;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 14px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    h1 {
+        font-family: Roboto Slab;
+        font-size: 46px;
+        font-weight: 700;
+        line-height: 47px;
+        letter-spacing: 0em;
+        text-align: left;
+
+        margin-bottom: 30px;
+    }
+
+    .mini-info {
+        display: flex;
+        justify-content: space-between;
+        font-family: Roboto;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 30px;
+    }
+
+    .mini-info-content p {
+        width: 264px;
+        height: 36px;
+        top: 257px;
+        left: 71px;
+    }
+
+    .mini-info-img {
+        display: flex;
+        justify-content: end;
+    }
+
+    .mini-info img {
+        width: 176.07px;
+        height: 206.18px;
+        top: 138.99px;
+        left: 515.46px;
+    }
+
+    .about-course {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 70px;
+    }
+
+    .info {
+        width: 383.41px;
+        height: 216.61px;
+        top: 676.46px;
+        left: 70.08px;
+    }
+
+    .info p {
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 20px;
+    }
+
+    .cameraman1 {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    .cameraman1 img {
+        width: 170.55px;
+        height: 160.29px;
+        top: 918px;
+        left: 101px;
+    }
+
+    .timing-course {
+        display: flex;
+        align-items: center;
+        gap: 70px;
+    }
+
+    .timing-course img {
+        display: block;
+        width: 134.37px;
+        height: 117.57px;
+        top: 947.51px;
+        left: 70.08px;
+    }
+
+    .duration {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .duration li h3 {
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 8px;
+    }
+
+    .duration li p {
+        font-family: Roboto;
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 14px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 10px;
+        width: 92px;
+    }
+}
+
+
+
+@media (min-width: 1280px) {
+
+    section {
+        padding: 70px;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        font-family: Roboto Slab;
+        font-size: 55px;
+        font-weight: 700;
+        line-height: 56px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 60px;
+    }
+
+    /* =========== MAIN ============== */
+
+    .timing {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        margin-bottom: 10px;
+    }
+
+    .timing li img {
+        width: 22.74px;
+        height: 21.16px;
+        top: 116.4px;
+        left: 70.08px;
+        margin-right: 10px;
+    }
+
+    .timing li {
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 23px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    h1 {
+        font-family: Roboto Slab;
+        font-size: 80px;
+        font-weight: 700;
+        line-height: 81px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 40px;
+    }
+
+    .mini-info {
+        display: flex;
+        /* gap: 80px; */
+        justify-content: space-between;
+        margin-bottom: 30px;
+    }
+
+    .mini-info-content p {
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: left;
+        width: 414px;
+        top: 257px;
+        left: 71px;
+    }
+
+    .mini-info-img {
+        display: flex;
+        justify-content: end;
+    }
+
+    .mini-info img {
+        width: 304.07px;
+        height: 356.18px;
+        top: 138.99px;
+        left: 515.46px;
+    }
+
+    .about-course {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 70px;
+    }
+
+    .info {
+        width: 662px;
+        height: 374px;
+        top: 1151px;
+        left: 121px;
+    }
+
+    .info p {
+        font-family: Roboto;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 36px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 20px;
+    }
+
+    .cameraman1 {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    .cameraman1 img {
+        width: 314px;
+        height: 315px;
+        top: 1175px;
+        left: 973px;
+    }
+
+    .timing-course {
+        display: flex;
+        align-items: center;
+        gap: 120px;
+    }
+
+    .timing-course img {
+        display: block;
+        width: 232px;
+        height: 203px;
+        top: 1619px;
+        left: 121px;
+    }
+
+    .duration {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 70px;
+    }
+
+    .duration li h3 {
+        font-family: Roboto;
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 12px;
+
+    }
+
+    .duration li p {
+        font-family: Roboto;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 16px;
+        width: 150px;
+    }
+}
